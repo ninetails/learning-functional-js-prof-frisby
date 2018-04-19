@@ -37,6 +37,8 @@
   },
   "dependencies": {
     "immutable": "^3.8.2",
-    "immutable-ext": "^1.1.5"
+    "immutable-ext": "^1.1.5",
+    "ramda": "^0.25.0",
+    "ramda-fantasy": "^0.8.0"
   }
 }

@@ -23,4 +23,8 @@ const Either = {
   fromNullable
 }
 
+Right.of = x => Right(x)
+Left.of = x => Left(x)
+Either.of = Right.of
+
 module.exports = Either

@@ -38,6 +38,7 @@
   "dependencies": {
     "data.either": "^1.5.1",
     "data.task": "^3.1.1",
+    "dotenv": "^5.0.1",
     "fantasy-identities": "0.0.1",
     "folktale": "^2.1.0",
     "futurize": "^1.2.0",

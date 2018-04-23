@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "folktale": "^2.1.0",
+    "futurize": "^1.2.0",
     "immutable": "^3.8.2",
     "immutable-ext": "^1.1.5",
     "ramda": "^0.25.0",
